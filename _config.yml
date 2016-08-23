@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.14255256624892354
 name: All well life
+navigation:
+  - name: Travel
+    id: 8319e623-649b-41ef-a90b-1d5a238fab88
+    type: content
 title: All Well Life
 description: Find your middle ground
