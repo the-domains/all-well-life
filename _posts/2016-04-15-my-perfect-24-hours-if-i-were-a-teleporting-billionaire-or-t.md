@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-23T19:01:20.222Z'
+datePublished: '2016-08-23T19:07:35.898Z'
 sourcePath: >-
   _posts/2016-04-15-my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t.md
 inFeed: true
-isBasedOnUrl: 'http://travelaway.me/24-hours-teleporting-billionaire/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - rooftop
   - maldives
@@ -25,7 +24,7 @@ author:
   - name: Miruna Corneanu
     url: 'http://travelaway.me'
     avatar: {}
-dateModified: '2016-08-23T19:01:19.731Z'
+dateModified: '2016-08-23T19:07:35.504Z'
 title: 'My Perfect 24 Hours, If I Were a Teleporting Billionaire | Travel Away'
 app_links: []
 publisher:
@@ -43,6 +42,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: my-perfect-24-hours-if-i-were-a-teleporting-billionaire-or-t/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
