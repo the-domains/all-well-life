@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T19:01:20.232Z'
+datePublished: '2016-08-23T19:09:31.925Z'
 sourcePath: _posts/2016-04-16-femton-an-organic-workout-collection-from-ali-safa-a-and.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-23T19:01:19.790Z'
+via: {}
+dateModified: '2016-08-23T19:09:31.594Z'
 title: '''Femton'': an organic workout collection from Ali Safa A and Analogue Ways.'
 app_links: []
 publisher:
@@ -37,10 +38,9 @@ description: >-
   environmental awareness.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>'Femton': an organic workout collection from Ali Safa A and Analogue Ways.</h1><p>Drawing inspiration from long, cold winters in Sweden spent cooped up indoors comes a new collection of workout gear designed by industrial design student Ali Safa A. Named 'Femton', the collection strives to alter public perceptions of exercise equipment while aiming to encourage healthy living and raise environmental awareness.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4f0a5732704ffa02391e60262502ab574155ef.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a4f0a5732704ffa02391e60262502ab574155ef.jpg" /><h1>'Femton': an organic workout collection from Ali Safa A and Analogue Ways.</h1><p>Drawing inspiration from long, cold winters in Sweden spent cooped up indoors comes a new collection of workout gear designed by industrial design student Ali Safa A. Named 'Femton', the collection strives to alter public perceptions of exercise equipment while aiming to encourage healthy living and raise environmental awareness.</p></article>
